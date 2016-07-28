@@ -8,8 +8,8 @@ After the DFA is finally built string checking operations can be performed in th
 
 Requirements: 
 --------------
-  gcc version 5.2.1 and above
-
+  gcc version 5.2.1 or above
+  
 Easy Compilation and Run:
 -------------------------
   Once you have setup the dependencies, download the source and compile:
