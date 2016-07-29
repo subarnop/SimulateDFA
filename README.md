@@ -4,7 +4,7 @@ SimulateDFA is an implementation of a datastructure in C that would simulate any
 
 Inputs necessary to be given are the number of states and the transition state for each input of those states. 
 
-After the DFA is finally built string checking operations can be performed in those DFAs and the visited states might also be matched to prove the validation of the DFA. Confirmation of large string along its visiting states can be tracked by this process very easily.
+After the DFA is finally built string checking operations can be performed in those DFAs and the visited states might also be matched to prove the validation of the DFA. Acceptance of strings along its visiting states can be tracked by this process very easily.
 
 Requirements: 
 --------------
